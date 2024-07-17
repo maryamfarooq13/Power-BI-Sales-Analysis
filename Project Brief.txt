@@ -1,0 +1,12 @@
+The Situation
+I am a new data analyst at MAVEN TOYS, which is a Toy store chain with multiple store locations in Mexico
+
+The Assignment
+I have access to data containing transactional records from January 2022 - September 2023, along with the information about products and store locations
+My goal is to build a simple, interactive report that the leadership team can use to monitor key business metrices and high level trends.
+
+The Objectives
+1. Connect and Profile the Data
+2. Create a relational model
+3. Add calculated measures and fields
+4. Build an interactive report
